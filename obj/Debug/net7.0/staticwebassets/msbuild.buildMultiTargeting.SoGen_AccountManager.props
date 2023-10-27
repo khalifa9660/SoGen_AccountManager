@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/SoGen_AccountManager.props" />
+</Project>
