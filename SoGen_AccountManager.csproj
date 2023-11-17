@@ -11,6 +11,25 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.11" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="MySql.Data" Version="8.2.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Models\" />
+    <None Remove="Services\" />
+    <None Remove="DTOs\" />
+    <None Remove="Mappers\" />
+    <None Remove="Repository\" />
+    <None Remove="Exceptions\" />
+    <None Remove="Controllers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Services\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="Mappers\" />
+    <Folder Include="Repository\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="Controllers\" />
+  </ItemGroup>
 </Project>

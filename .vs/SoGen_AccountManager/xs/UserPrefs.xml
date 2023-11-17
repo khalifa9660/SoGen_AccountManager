@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{7863D743-6AD8-4F23-ABE8-226A909A2D07}|https" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
+    <Files>
+      <File FileName=".vs/SoGen_AccountManager/xs/UserPrefs.xml" Line="4" Column="14" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SoGen_AccountManager">
+            <Node name="SoGen_AccountManager" expanded="True">
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SoGen__AccountManager PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
